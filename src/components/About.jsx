@@ -58,25 +58,25 @@ const About = () => {
 
 <motion.p
     variants={fadeIn('', '', 0.1, 1)}
-    className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]"
+    className="mt-4 text-taupe text-[18px] max-w-6xl leading-[30px]"
   >
     I'm Kiran Reddy, a committed computer scientist with a Master's degree from the University of Maryland, Baltimore County. My background includes a lot of work in software development and machine learning. I've achieved a lot academically and have used cutting-edge technologies to significantly impact various projects. These include monitoring the environment for NASA, developing software backends for NTT Data, and creating new solutions for Zensar Technologies and DataLore Labs.
   </motion.p>
   <motion.p
     variants={fadeIn('', '', 0.1, 1)}
-    className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]"
+    className="mt-4 text-taupe text-[18px] max-w-6xl leading-[30px]"
   >
     My professional life is shaped by deep knowledge in technology and a strong desire to use technology to make a real difference. One of the main highlights of my career is my work with NASA and Nova Project, where I helped make big improvements in detecting air quality using machine learning, improving how we monitor the environment on Earth and beyond.
   </motion.p>
   <motion.p
     variants={fadeIn('', '', 0.1, 1)}
-    className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]"
+    className="mt-4 text-taupe text-[18px] max-w-6xl leading-[30px]"
   >
     In software development, I am skilled in handling everything from building complete applications to managing complex backend operations and integrating data. I work with a wide range of tools and programming languages, including .NET, Python, C#, and SQL. My projects focus on designing for users and using data to make things better and more efficient.
   </motion.p>
   <motion.p
     variants={fadeIn('', '', 0.1, 1)}
-    className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]"
+    className="mt-4 text-taupe text-[18px] max-w-6xl leading-[30px]"
   >
     I also actively contribute to academic discussions, having written papers and a book on subjects from machine learning in healthcare to the technical details of networks in the Internet of Things. My forward-thinking approach to technology and solving real problems makes me a valuable member of any team, always pushing for innovation and excellence in everything I do.
   </motion.p>
